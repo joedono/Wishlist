@@ -5,7 +5,7 @@
 ### Steam
 These require an account on https://store.steampowered.com/
 
-https://store.steampowered.com/wishlist/profiles/76561198002916446/
+https://store.steampowered.com/wishlist/profiles/76561198002916446/  
 *Wishlist not accessible unless you have an account and add me as a friend*
 
 - Cyberpunk 2077 - https://store.steampowered.com/app/1091500/Cyberpunk_2077/
