@@ -1,7 +1,5 @@
 # Joe's Wishlist
 
----
-
 ## Video Games
 
 ### Steam
@@ -21,8 +19,6 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 
 ### Playstation
 - The Last of Us Part II (PS4)
-
----
 
 ## Board Games
 - Unstable Unicorns - https://www.unstablegames.com/products/unstable-unicorns-travel-edition
@@ -47,18 +43,16 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 - Dungeon Master's Guide - https://www.amazon.com/Dungeons-Dragons-Monster-Rulebook-Roleplaying/dp/0786965614/
 - Monster Manual - https://www.amazon.com/Dungeons-Dragons-Dungeon-Rulebook-Roleplaying/dp/0786965622/
 
----
-
 ## Gift Cards
 - iTunes
 - Steam
 - Amazon
 - Audible
 
----
-
-## Misc (with website)
+## Misc
 I wear an XL t-shirt
+
+### With Website
 
 - LÖVE merchandise - https://shop.spreadshirt.net/nekogear/
 - GitHub merchandise - https://github.myshopify.com/
@@ -75,9 +69,7 @@ I wear an XL t-shirt
     - https://the-dragons-lair.com/productdetail.asp?product=3480
     - https://the-dragons-lair.com/productdetail.asp?product=12956
 
----
-
-## Misc (without website)
+### Without Website
 - Peeper of Sweet Vanilla cider (or any cider, really) from Stafford Cidery
 - Collapsible Dice Tray
 - Fantasy or Sci-Fi Stickers
