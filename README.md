@@ -8,7 +8,6 @@ These require an account on https://store.steampowered.com/
 https://store.steampowered.com/wishlist/profiles/76561198002916446/  
 *Wishlist not accessible unless you have an account and add me as a friend*
 
-- Cyberpunk 2077 - https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 - Halloween Forever - https://store.steampowered.com/app/425650/Halloween_Forever/
 - Black Mesa - https://store.steampowered.com/app/362890/Black_Mesa/
