@@ -8,6 +8,9 @@ These require an account on https://store.steampowered.com/
 https://store.steampowered.com/wishlist/profiles/76561198002916446/  
 *Wishlist not accessible unless you have an account and add me as a friend*
 
+- Alan Wake - https://store.steampowered.com/app/108710/Alan_Wake/
+- Alan Wake's American Nightmare - https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/
+- Quantum Break - https://store.steampowered.com/app/474960/Quantum_Break/
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 - Halloween Forever - https://store.steampowered.com/app/425650/Halloween_Forever/
 - Black Mesa - https://store.steampowered.com/app/362890/Black_Mesa/
@@ -52,7 +55,6 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 I wear an XL t-shirt
 
 ### With Website
-
 - LÖVE merchandise - https://shop.spreadshirt.net/nekogear/
 - GitHub merchandise - https://github.myshopify.com/
 - Dragon Shirts - https://the-dragons-lair.com/product.asp?category1=T-Shirt+Short+Sleeve&category2=Dragons
