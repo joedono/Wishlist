@@ -8,12 +8,8 @@ These require an account on https://store.steampowered.com/
 https://store.steampowered.com/wishlist/profiles/76561198002916446/  
 *Wishlist not accessible unless you have an account and add me as a friend*
 
-- Alan Wake - https://store.steampowered.com/app/108710/Alan_Wake/
-- Alan Wake's American Nightmare - https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/
-- Quantum Break - https://store.steampowered.com/app/474960/Quantum_Break/
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 - Halloween Forever - https://store.steampowered.com/app/425650/Halloween_Forever/
-- Black Mesa - https://store.steampowered.com/app/362890/Black_Mesa/
 - Depths of Sanity - https://store.steampowered.com/app/848080/Depths_of_Sanity/
 - Ys VIII: Lacrimosa of DANA - https://store.steampowered.com/app/579180/Ys_VIII_Lacrimosa_of_DANA/
 - Halo: The Master Chief Collection - https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
@@ -30,6 +26,7 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
     - Base Game
     - Expansion 2
     - Expansion 5
+    - Expansion 4
     - Expansion 7
     - Piper vs Ripsnarl
     - Pooky
@@ -39,11 +36,6 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
     - Marvel
     - Star
     - Zombie
-
-### Dungeons & Dragons
-- *We already have the Player's Handbook*
-- Dungeon Master's Guide - https://www.amazon.com/Dungeons-Dragons-Monster-Rulebook-Roleplaying/dp/0786965614/
-- Monster Manual - https://www.amazon.com/Dungeons-Dragons-Dungeon-Rulebook-Roleplaying/dp/0786965622/
 
 ## Gift Cards
 - iTunes
@@ -72,7 +64,6 @@ I wear an XL t-shirt
 
 ### Without Website
 - Peeper of Sweet Vanilla cider (or any cider, really) from Stafford Cidery
-- Collapsible Dice Tray
 - Fantasy or Sci-Fi Stickers
 - Pants (jeans, khakis, or sweats) - 40W 30L
 - Indoor Volleyball
