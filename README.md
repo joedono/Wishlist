@@ -17,11 +17,9 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 - Doom Eternal: The Ancient Gods - https://store.steampowered.com/app/1098292/DOOM_Eternal_The_Ancient_Gods__Part_One/
 - What Lives Below - https://store.steampowered.com/app/1557140/What_Lives_Below/
 
-### Playstation
-- The Last of Us Part II (PS4)
-
 ## Board Games
 - Happy Little Dinosaurs - https://www.unstablegames.com/products/happy-little-dinosaurs
+- Doomlings - https://doomlings.com/
 - Red Dragon Inn - https://slugfestgames.com/rdi-products/
   - Already have:
     - Base Game
@@ -50,6 +48,7 @@ I wear an XL t-shirt
 ### With Website
 - LÖVE merchandise - https://shop.spreadshirt.net/nekogear/
 - GitHub merchandise - https://github.myshopify.com/
+- Board Game Backpack - https://www.amazon.com/GeekOn-SpacePak-Board-Game-Backpack/dp/B08GCYSCXD/
 - Dragon Shirts - https://the-dragons-lair.com/product.asp?category1=T-Shirt+Short+Sleeve&category2=Dragons
   - Suggestions (in case you're worried about picking up one I already have)
   - https://the-dragons-lair.com/productdetail.asp?product=7218
@@ -64,7 +63,7 @@ I wear an XL t-shirt
   - https://the-dragons-lair.com/productdetail.asp?product=12956
 
 ### Without Website
-- Peeper of Sweet Vanilla cider (or any sweet cider, really) from Stafford Cidery
+- Peeper of Sweet Vanilla cider (or any sweet cider) from Stafford Cidery
 - Fantasy or Sci-Fi Stickers
 - Pants (jeans, khakis, or sweats) - 40W 30L
 - Indoor Volleyball
