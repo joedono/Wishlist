@@ -45,10 +45,14 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 ## Misc
 I wear an XL t-shirt
 
+### Amazon
+- Harleen - https://www.amazon.com/Harleen-Stjepan-Sejic/dp/1779501110/
+- Board Game Backpack - https://www.amazon.com/GeekOn-SpacePak-Board-Game-Backpack/dp/B08GCYSCXD/
+- Small Whiteboard -https://www.amazon.com/ARCOBIS-Magnetic-Double-Sided-Whiteboard-Portable/dp/B0835295P5/
+
 ### With Website
 - LÖVE merchandise - https://shop.spreadshirt.net/nekogear/
 - GitHub merchandise - https://github.myshopify.com/
-- Board Game Backpack - https://www.amazon.com/GeekOn-SpacePak-Board-Game-Backpack/dp/B08GCYSCXD/
 - Dragon Shirts - https://the-dragons-lair.com/product.asp?category1=T-Shirt+Short+Sleeve&category2=Dragons
   - Suggestions (in case you're worried about picking up one I already have)
   - https://the-dragons-lair.com/productdetail.asp?product=7218
