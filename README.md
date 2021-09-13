@@ -47,8 +47,6 @@ I wear an XL t-shirt
 
 ### Amazon
 - Harleen - https://www.amazon.com/Harleen-Stjepan-Sejic/dp/1779501110/
-- Board Game Backpack - https://www.amazon.com/GeekOn-SpacePak-Board-Game-Backpack/dp/B08GCYSCXD/
-- Small Whiteboard -https://www.amazon.com/ARCOBIS-Magnetic-Double-Sided-Whiteboard-Portable/dp/B0835295P5/
 
 ### With Website
 - LÖVE merchandise - https://shop.spreadshirt.net/nekogear/
