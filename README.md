@@ -9,15 +9,13 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 *Wishlist not accessible unless you have an account and add me as a friend*
 
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
-- Halloween Forever - https://store.steampowered.com/app/425650/Halloween_Forever/
-- Depths of Sanity - https://store.steampowered.com/app/848080/Depths_of_Sanity/
-- Baldur's Gate 3 - https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 - Stray - https://store.steampowered.com/app/1332010/Stray/
 - Melty Blood: Type Lumina - https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/
 - What Lives Below - https://store.steampowered.com/app/1557140/What_Lives_Below/
+- The Stanley Parable: Ultra Deluxe - https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/
+- Redout 2 - https://store.steampowered.com/app/1799930/Redout_2/
 
 ## Board Games
-- Happy Little Dinosaurs - https://www.unstablegames.com/products/happy-little-dinosaurs
 - Wrong Party - https://www.unstablegames.com/collections/wrong-party
 - Doomlings - https://doomlings.com/
 - Red Dragon Inn - https://slugfestgames.com/rdi-products/
@@ -29,8 +27,11 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
     - Expansion 5 (Sera the Fleetfooted, Lizwidk the Collector, Joran the Trickster, Zakhan the Drunken Master)
     - Expansion 6 (Daareka the Mindbreaker, Varon von Vlazlo, Amundyr the Cursed, Torglesnarf Duncleton, First of his Name)
     - Expansion 7 (Warthorn Redbeard, Molly the Stablehand, Jasper the Bouncer, The Wench)
-    - Piper vs Ripsnarl
-    - Pooky
+    - Allies: Piper vs Ripsnarl
+    - Allies: Pooky
+    - Allies: Witchdoctor Natyli
+    - Allies: Evil Pooky
+    - Allies: Wrench
 - Fluxx - https://www.looneylabs.com/our-games#Fluxx
   - Already have:
     - Fluxx Dice
@@ -48,7 +49,6 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 I wear an XL t-shirt
 
 ### Amazon
-- Harleen - https://www.amazon.com/Harleen-Stjepan-Sejic/dp/1779501110/
 - Laptop Triple Monitor - https://www.amazon.com/dp/B09FWZY29D/
 
 ### With Website
