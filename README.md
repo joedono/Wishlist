@@ -9,9 +9,19 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 *Wishlist not accessible unless you have an account and add me as a friend*
 
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
+- Borderlands 3 - https://store.steampowered.com/app/397540/Borderlands_3/
+- Half-Life: Alyx - https://store.steampowered.com/app/546560/HalfLife_Alyx/
+- Dead Cells - https://store.steampowered.com/app/588650/Dead_Cells/
+- Scorn - https://store.steampowered.com/app/698670/Scorn/
+- Horizon: Zero Dawn - https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
 - Melty Blood: Type Lumina - https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/
 - What Lives Below - https://store.steampowered.com/app/1557140/What_Lives_Below/
-- Redout 2 - https://store.steampowered.com/app/1799930/Redout_2/
+- Sailwind - https://store.steampowered.com/app/1764530/Sailwind/
+- Spider-Man - https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
+- HiFi Rush - https://store.steampowered.com/app/1817230/HiFi_RUSH/
+- Scott Pilgrim vs. The World - https://store.steampowered.com/app/2215260/Scott_Pilgrim_vs_The_World_The_Game__Complete_Edition/
+- Extremely Powerful Capybaras - https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/
+- HeroSquare - https://store.steampowered.com/app/2440500/HeroSquare/
 
 ## Board Games
 - Wrong Party - https://www.unstablegames.com/collections/wrong-party
@@ -47,20 +57,27 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 I wear an XL t-shirt
 
 ### Amazon
+**Wishlist** - https://www.amazon.com/hz/wishlist/ls/3JV86SU2V9ZSJ/
+
 - Laptop Triple Monitor - https://www.amazon.com/dp/B09FWZY29D/
+- D&D 5th Edition Base Book Pack - https://www.amazon.com/dp/0786966629/
+- Spike Ball - https://www.amazon.com/dp/B00K8ANYZU/
+- iPhone Stylus - https://www.amazon.com/dp/B076BJFXLR/
 
 ### With Website
 - LÖVE merchandise - https://nekogear.myspreadshop.net/
 - GitHub merchandise - https://thegithubshop.com/
-- 3D Wooden Puzzles - https://www.robotimeonline.com/collections/3d-wooden-puzzle
+- Fallen London merchandise - https://fallenlondon.myspreadshop.com/
 
 ### Without Website
 - Peeper of Sweet Vanilla cider (or any sweet cider) from Stafford Cidery
+- IRN-BRU
 - Fantasy or Sci-Fi Stickers
 - Pants (jeans, khakis, or sweats) - 40W 30L
-- Indoor Volleyball
+- Ball for Indoor Volleyball
 - Beginner or Intermediate art books (focus on pencil or digital, preferably Krita)
 - Nice-smelling beard wash
 - Anything to aid in table-top gaming, such as storage (no card sleeves), dice rollers, playmats, lights, etc.
 - Anything D&D related that isn't miniatures
+- Anything Final Fantasy XIV related
 - Anything Witcher related
