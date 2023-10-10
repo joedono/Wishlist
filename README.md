@@ -59,11 +59,6 @@ I wear an XL t-shirt
 ### Amazon
 **Wishlist** - https://www.amazon.com/hz/wishlist/ls/3JV86SU2V9ZSJ/
 
-- Laptop Triple Monitor - https://www.amazon.com/dp/B09FWZY29D/
-- D&D 5th Edition Base Book Pack - https://www.amazon.com/dp/0786966629/
-- Spike Ball - https://www.amazon.com/dp/B00K8ANYZU/
-- iPhone Stylus - https://www.amazon.com/dp/B076BJFXLR/
-
 ### With Website
 - LÖVE merchandise - https://nekogear.myspreadshop.net/
 - GitHub merchandise - https://thegithubshop.com/
