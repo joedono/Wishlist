@@ -9,10 +9,8 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 *Wishlist not accessible unless you have an account and add me as a friend*
 
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
-- Borderlands 3 - https://store.steampowered.com/app/397540/Borderlands_3/
 - Half-Life: Alyx - https://store.steampowered.com/app/546560/HalfLife_Alyx/
 - Dead Cells - https://store.steampowered.com/app/588650/Dead_Cells/
-- Scorn - https://store.steampowered.com/app/698670/Scorn/
 - Horizon: Zero Dawn - https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
 - Melty Blood: Type Lumina - https://store.steampowered.com/app/1372280/MELTY_BLOOD_TYPE_LUMINA/
 - What Lives Below - https://store.steampowered.com/app/1557140/What_Lives_Below/
