@@ -24,7 +24,6 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 - HeroSquare - https://store.steampowered.com/app/2440500/HeroSquare/
 
 ## Board Games
-- Wrong Party - https://www.unstablegames.com/collections/wrong-party
 - Doomlings - https://doomlings.com/
 - Red Dragon Inn - https://slugfestgames.com/rdi-products/
   - Already have:
