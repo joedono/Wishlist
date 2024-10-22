@@ -9,34 +9,24 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 *Wishlist not accessible unless you have an account and add me as a friend*
 
 - Hollow Knight: Silksong - https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
-- Half-Life: Alyx - https://store.steampowered.com/app/546560/HalfLife_Alyx/
 - Dead Cells - https://store.steampowered.com/app/588650/Dead_Cells/
 - What Lives Below - https://store.steampowered.com/app/1557140/What_Lives_Below/
 - Sailwind - https://store.steampowered.com/app/1764530/Sailwind/
-- Scott Pilgrim vs. The World - https://store.steampowered.com/app/2215260/Scott_Pilgrim_vs_The_World_The_Game__Complete_Edition/
+- Noita - https://store.steampowered.com/app/881100/Noita/
 - Hades II - https://store.steampowered.com/app/1145350/Hades_II/
-- Moonstone Island - https://store.steampowered.com/app/1658150/Moonstone_Island/
-- Extremely Powerful Capybaras - https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/
+- No Rest for the Wicked - https://store.steampowered.com/agecheck/app/1371980/
+- Palworld - https://store.steampowered.com/app/1623730/Palworld/
+- Mask of the Rose - https://store.steampowered.com/app/1769980/Mask_of_the_Rose/
+- Warhammer 40,000: Space Marine 2 - https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 - HeroSquare - https://store.steampowered.com/app/2440500/HeroSquare/
+- Senua's Saga: Hellblade II - https://store.steampowered.com/agecheck/app/2461850/
 
 ## Board Games
-- Doomlings - https://doomlings.com/
 - Red Dragon Inn - https://slugfestgames.com/rdi-products/
-  - Already have:
-    - Base Game + Expansions 2-7
-    - Allies
-      - Piper vs Ripsnarl
-      - Ohava vs Murgath
-      - Pooky
-      - Evil Pooky
-      - Witchdoctor Natyli
-      - Wrench
-      - Ozrik
-      - Brother Bastian
-      - Cormac
-      - Ern the Ever-Changing
-      - Zariah
-      - Halden
+  - Allies: Keet and Nitrel
+  - Allies: Adonis vs. The Lich King
+  - Allies: Ohava vs. Murgath
+  - Smorgasbox
 - Fluxx - https://www.looneylabs.com/our-games#Fluxx
   - Already have:
     - Fluxx Dice
@@ -54,16 +44,15 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 I wear an XL t-shirt
 
 ### Amazon
-**Wishlist** - https://www.amazon.com/hz/wishlist/ls/3JV86SU2V9ZSJ/
+https://www.amazon.com/hz/wishlist/ls/3JV86SU2V9ZSJ/
 
 ### With Website
 - LÖVE merchandise - https://nekogear.myspreadshop.net/
 - GitHub merchandise - https://thegithubshop.com/
-- Fallen London merchandise - https://fallenlondon.myspreadshop.com/
+- 3D Wooden Puzzles - https://www.robotimeonline.com/collections/3d-wooden-puzzle
 
 ### Without Website
-- Peeper of Sweet Vanilla cider (or any sweet cider) from Stafford Cidery
-- IRN-BRU
+- Sweet Vanilla cider (or any sweet hard cider)
 - Fantasy or Sci-Fi Stickers
 - Pants (jeans, khakis, or sweats) - 40W 30L
 - Ball for Indoor Volleyball
