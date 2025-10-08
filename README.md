@@ -32,6 +32,7 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
     - Marvel Fluxx
     - Star Fluxx
     - Zombie Fluxx
+- Splendor
 
 ## Gift Cards
 - iTunes
@@ -49,6 +50,7 @@ https://www.amazon.com/hz/wishlist/ls/3JV86SU2V9ZSJ/
 - LÖVE merchandise - https://nekogear.myspreadshop.net/
 - GitHub merchandise - https://thegithubshop.com/
 - 3D Wooden Puzzles - https://www.robotimeonline.com/collections/3d-wooden-puzzle
+- Steam Deck Dock - https://store.steampowered.com/steamdeckdock
 
 ### Without Website
 - Any sweet hard cider
