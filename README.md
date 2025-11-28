@@ -17,15 +17,19 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
 - Mask of the Rose - https://store.steampowered.com/app/1769980/Mask_of_the_Rose/
 - Warhammer 40,000: Space Marine 2 - https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 - Noita - https://store.steampowered.com/app/881100/Noita/
-- Split Fiction
-- Denshattack!
+- Split Fiction - https://store.steampowered.com/app/2001120/Split_Fiction/
+- Denshattack! - https://store.steampowered.com/app/2524850/Denshattack/
+- Metal Gear Solid Delta: Snake Eater - https://store.steampowered.com/app/2417610/METAL_GEAR_SOLID_D_SNAKE_EATER/
+- Dispatch - https://store.steampowered.com/app/2592160/Dispatch/
 
 ## Board Games
 - Red Dragon Inn - https://slugfestgames.com/rdi-products/
   - Allies: Keet and Nitrel
-  - Allies: Adonis vs. The Lich King
-  - Allies: Ohava vs. Murgath
+  - Allies: Jin vs. Greppa
+  - Allies: Melvyn vs Marah
   - Smorgasbox
+  - Red Dragon Inn 9
+  - Red Dragon Inn 10
 - Fluxx - https://www.looneylabs.com/our-games#Fluxx
   - Already have:
     - Fluxx Dice
@@ -33,6 +37,8 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
     - Star Fluxx
     - Zombie Fluxx
 - Splendor
+- Forbidden Desert
+- Forbidden Jungle
 
 ## Gift Cards
 - iTunes
