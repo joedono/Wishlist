@@ -40,7 +40,6 @@ https://store.steampowered.com/wishlist/profiles/76561198002916446/
     - Star Fluxx
     - Zombie Fluxx
 - Splendor
-- Forbidden Desert
 - Forbidden Jungle
 
 ## Gift Cards
