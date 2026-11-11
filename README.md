@@ -1,5 +1,8 @@
 # Joe's Wishlist
 
+## ART CLASSES
+Focused on pencil drawing, sketching, or painting.
+
 ## Video Games
 
 ### Steam
